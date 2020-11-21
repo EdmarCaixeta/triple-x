@@ -6,4 +6,5 @@ To compile this, in terminal:
     ./<name of executable>
 
 About Triple X game:
+
 	Triple X is a simple game about guessing 3 numbers based in sum and product tips. This code and idea is inspired by: Unreal Engine C++ Developer: Learn C++ and Make Video Games course made by GameDev.tv on Udemy website.
